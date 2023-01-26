@@ -1,2 +1,8 @@
 
-Asif-Ali-KP
+
+git init
+git add .
+git commit -m "message"
+git branch -M master
+git remote add origin https://github.com/Asif-Ali-KP/git-test.git
+git push origin master
